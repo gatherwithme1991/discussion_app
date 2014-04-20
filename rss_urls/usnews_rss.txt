@@ -1,0 +1,129 @@
+Nation & World
+http://www.usnews.com/rss/news	
+Google Reader
+My Yahoo! Reader
+Health
+http://www.usnews.com/rss/health-news	
+Google Reader
+My Yahoo! Reader
+Money
+http://www.usnews.com/rss/money/index.rss	
+Google Reader
+My Yahoo! Reader
+Education
+http://www.usnews.com/rss/education	
+Google Reader
+My Yahoo! Reader
+Opinion
+http://www.usnews.com/rss/opinion	
+Google Reader
+My Yahoo! Reader
+Science
+http://www.usnews.com/rss/science	
+Google Reader
+My Yahoo! Reader
+Podcasts
+Personal Finance
+http://feeds2.feedburner.com/alphaconsumer	
+Google Reader
+My Yahoo! Reader
+Washington Whispers
+http://feeds2.feedburner.com/washingtonwhispers	
+Google Reader
+My Yahoo! Reader
+Money
+http://feeds2.feedburner.com/usnewsmoneybusiness	
+Google Reader
+My Yahoo! Reader
+Blogs
+Politics & Opinion
+
+Washington Whispers
+http://www.usnews.com/blogrss/washington-whispers.xml	
+Google Reader
+My Yahoo! Reader
+Doug Heye
+http://www.usnews.com/blogrss/doug-heye.xml	
+Google Reader
+My Yahoo! Reader
+Editor's Note
+http://www.usnews.com/blogrss/editors-note.xml	
+Google Reader
+My Yahoo! Reader
+Jamie Stiehm
+http://www.usnews.com/blogrss/Jamie-Stiehm.xml	
+Google Reader
+My Yahoo! Reader
+Jodie Allen
+http://www.usnews.com/blogrss/jodie-allen.xml	
+Google Reader
+My Yahoo! Reader
+Mary Kate Cary
+http://www.usnews.com/blogrss/mary-kate-cary.xml	
+Google Reader
+My Yahoo! Reader
+Morgan Flechner
+http://www.usnews.com/blogrss/morgan-felchner.xml	
+Google Reader
+My Yahoo! Reader
+Peter Roff
+http://www.usnews.com/blogrss/peter-roff.xml	
+Google Reader
+My Yahoo! Reader
+Robert Schlesinger
+http://www.usnews.com/blogrss/robert-schlesinger.xml	
+Google Reader
+My Yahoo! Reader
+Sam Dealey
+http://www.usnews.com/blogrss/sam-dealey.xml	
+Google Reader
+My Yahoo! Reader
+Health
+
+Health
+http://www.usnews.com/rss/health-news	
+Google Reader
+My Yahoo! Reader
+On Fitness
+http://www.usnews.com/blogrss/on-fitness.xml	
+Google Reader
+My Yahoo! Reader
+On Parenting
+http://www.usnews.com/blogrss/on-parenting.xml	
+Google Reader
+My Yahoo! Reader
+Healthcare Headaches
+http://www.usnews.com/blogrss/healthcare-headaches.xml	
+Google Reader
+My Yahoo! Reader
+Money
+
+Alpha Consumer
+http://feeds2.feedburner.com/alphaconsumer	
+Google Reader
+My Yahoo! Reader
+The Best Life
+http://www.usnews.com/blogrss/the-best-life.xml	
+Google Reader
+My Yahoo! Reader
+On Careers
+http://www.usnews.com/blogrss/outside-voices-careers.xml	
+Google Reader
+My Yahoo! Reader
+Planning to Retire
+http://www.usnews.com/blogrss/planning-to-retire.xml	
+Google Reader
+My Yahoo! Reader
+Education
+
+Morse Code: Inside the College Rankings
+http://www.usnews.com/blogrss/college-rankings-blog.xml	
+Google Reader
+My Yahoo! Reader
+Science
+
+Science
+http://www.usnews.com/rss/science	
+Google Reader
+My Yahoo! Reader
+

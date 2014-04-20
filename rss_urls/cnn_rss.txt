@@ -1,0 +1,33 @@
+Top Stories		http://rss.cnn.com/rss/cnn_topstories.rss				Add to My Yahoo!
+
+World		http://rss.cnn.com/rss/cnn_world.rss				Add to My Yahoo!
+
+U.S.		http://rss.cnn.com/rss/cnn_us.rss				Add to My Yahoo!
+
+Business (CNNMoney.com)		http://rss.cnn.com/rss/money_latest.rss				Add to My Yahoo!
+
+Politics		http://rss.cnn.com/rss/cnn_allpolitics.rss				Add to My Yahoo!
+
+Crime		http://rss.cnn.com/rss/cnn_crime.rss				Add to My Yahoo!
+
+Technology		http://rss.cnn.com/rss/cnn_tech.rss				Add to My Yahoo!
+
+Health		http://rss.cnn.com/rss/cnn_health.rss				Add to My Yahoo!
+
+Entertainment		http://rss.cnn.com/rss/cnn_showbiz.rss				Add to My Yahoo!
+
+Travel		http://rss.cnn.com/rss/cnn_travel.rss				Add to My Yahoo!
+
+Living		http://rss.cnn.com/rss/cnn_living.rss				Add to My Yahoo!
+
+Video		http://rss.cnn.com/rss/cnn_freevideo.rss				Add to My Yahoo!
+
+CNN Student News		http://rss.cnn.com/rss/cnn_studentnews.rss				Add to My Yahoo!
+
+Most Popular		http://rss.cnn.com/rss/cnn_mostpopular.rss				Add to My Yahoo!
+
+Most Recent		http://rss.cnn.com/rss/cnn_latest.rss				Add to My Yahoo!
+
+iReports on CNN		http://rss.ireport.com/feeds/oncnn.rss				Add to My Yahoo!
+
+CNN.com Behind the Scenes Blog		http://rss.cnn.com/rss/cnn_behindthescenes.rss 

@@ -1,0 +1,134 @@
+Reuters News RSS Feeds
+We invite you to use Reuters RSS feeds to add Reuters definitive news and video headlines to your feed reader or blog, free of charge, for individual, non-commercial use.
+How to Use RSS Feeds
+
+To subscribe to Reuters feeds in your feed reader, copy the URL that corresponds to the topic that interests you and paste it in your RSS Aggregator.
+News
+
+TITLE	COPY URL TO RSS READER	 	 
+Arts	http://feeds.reuters.com/news/artsculture		
+Business	http://feeds.reuters.com/reuters/businessNews		
+Business Travel	http://feeds.reuters.com/ReutersBusinessTravel		
+Company News	http://feeds.reuters.com/reuters/companyNews		
+Counterparties	http://feeds.reuters.com/Counterparties		
+Election 2012	http://feeds.reuters.com/reuters/Election2012		
+Entertainment	http://feeds.reuters.com/reuters/entertainment		
+Environment	http://feeds.reuters.com/reuters/environment		
+Health News	http://feeds.reuters.com/reuters/healthNews		
+Lifestyle	http://feeds.reuters.com/reuters/lifestyle		
+Media	http://feeds.reuters.com/news/reutersmedia		
+Money	http://feeds.reuters.com/news/wealth		
+Most Read Articles	http://feeds.reuters.com/reuters/MostRead		
+Oddly Enough	http://feeds.reuters.com/reuters/oddlyEnoughNews		
+Pictures	http://feeds.reuters.com/ReutersPictures		
+People	http://feeds.reuters.com/reuters/peopleNews		
+Politics	http://feeds.reuters.com/Reuters/PoliticsNews		
+Science	http://feeds.reuters.com/reuters/scienceNews		
+Sports	http://feeds.reuters.com/reuters/sportsNews		
+Technology	http://feeds.reuters.com/reuters/technologyNews		
+Top News	http://feeds.reuters.com/reuters/topNews		
+US News	http://feeds.reuters.com/Reuters/domesticNews		
+World	http://feeds.reuters.com/Reuters/worldNews		
+Markets
+
+TITLE	COPY URL TO RSS READER	 	 
+Bankruptcy	http://feeds.reuters.com/reuters/bankruptcyNews		
+Bonds	http://feeds.reuters.com/reuters/bondsNews		
+Deals	http://feeds.reuters.com/news/deals		
+Economy	http://feeds.reuters.com/news/economy		
+Financial Services & Real Estate	http://feeds.reuters.com/reuters/financialServicesrealEstateNews		
+Global Markets	http://feeds.reuters.com/reuters/globalmarketsNews		
+Hedge Funds	http://feeds.reuters.com/news/hedgefunds		
+Hot Stocks	http://feeds.reuters.com/reuters/hotStocksNews		
+IPOs	http://www.reuters.com/rssFeed/newIssuesNews		
+Mergers & Acquisitions	http://feeds.reuters.com/reuters/mergersNews		
+Private Equity	http://feeds.reuters.com/reuters/privateequityNews		
+Regulatory News	http://feeds.reuters.com/reuters/governmentfilingsNews		
+Small Business	http://feeds.reuters.com/reuters/smallBusinessNews		
+Summit News	http://feeds.reuters.com/reuters/summitNews		
+US Dollar Report	http://feeds.reuters.com/reuters/USdollarreportNews		
+US Markets	http://feeds.reuters.com/news/usmarkets		
+Sectors
+
+TITLE	COPY URL TO RSS READER	 	 
+Basic Materials	http://feeds.reuters.com/reuters/basicmaterialsNews		
+Cyclical Consumer Goods	http://feeds.reuters.com/reuters/cyclicalconsumergoodsNews		
+Energy	http://feeds.reuters.com/reuters/USenergyNews		
+Environment	http://feeds.reuters.com/reuters/environment		
+Financials	http://feeds.reuters.com/reuters/financialsNews		
+Healthcare	http://feeds.reuters.com/reuters/UShealthcareNews		
+Industrials	http://feeds.reuters.com/reuters/industrialsNews		
+Media Diversified	http://feeds.reuters.com/reuters/USmediaDiversifiedNews		
+Non-Cyclical Consumer Goods	http://feeds.reuters.com/reuters/noncyclicalconsumergoodsNews		
+Technology	http://feeds.reuters.com/reuters/technologysectorNews		
+Technology, Media & Telecommunications	http://feeds.reuters.com/reuters/UStechnologyTelcomNews		
+Telecommunications	http://feeds.reuters.com/reuters/telecomsectorNews		
+Utilities	http://feeds.reuters.com/reuters/utilitiesNews		
+Analysis & Opinion
+
+TITLE	COPY URL TO RSS READER	 	 
+Afghan Journal	http://feeds.reuters.com/reuters/blogs/AfghanJournal		
+Anthony DeRosa	http://feeds.reuters.com/reuters/blogs/AnthonyDerosa		
+Bernd Debusmann	http://feeds.reuters.com/reuters/blogs/reuters-dealzone		
+Chrystia Freeland	http://feeds.reuters.com/ChrystiaFreeland		
+Data Dive	http://feeds.feedburner.com/reuters/blogs/data-dive		
+David Cay Johnston	http://feeds.reuters.com/reuters/reuters/blogs/DavidCayJohnston		
+Davos Notebook	http://feeds.feedburner.com/reuters/blogs/DavosNotebook		
+DealZone	http://feeds.reuters.com/reuters/blogs/reuters-dealzone		
+Emanuel Derman	http://feeds.reuters.com/reuters/iOWg		
+Entrepreneurial	http://feeds.reuters.com/reuters/blogs/entrepreneurial		
+FaithWorld	http://feeds.reuters.com/reuters/blogs/Faithworld		
+Felix Salmon	http://feeds.reuters.com/reuters/blogs/felix-salmon		
+Financial Regulatory Forum	http://feeds.reuters.com/reuters/blogs/FinancialRegulatoryForum		
+For the Record	http://feeds.reuters.com/reuters/blogs/for-the-record		
+Funds Hub	http://feeds.reuters.com/reuters/blogs/FundsHub		
+George Chen	http://feeds.reuters.com/reuters/blogs/GeorgeChen		
+Geraldine Fabrikant	http://feeds.reuters.com/reuters/blogs/GeraldineFabrikant		
+Global Investing	http://feeds.reuters.com/reuters/blogs/GlobalInvesting		
+Hugo Dixon	http://feeds.reuters.com/reuters/blogs/HugoDixon		
+Ian Bremmer	http://feeds.reuters.com/reuters/blogs/IanBremmer		
+India Insight	http://feeds.reuters.com/reuters/blogs/India		
+Jack Shafer	http://feeds.reuters.com/reuters/blogs/jackshafer		
+James Pethokoukis	http://feeds.reuters.com/reuters/blogs/JamesPethokoukis		
+James Saft	http://feeds.reuters.com/reuters/blogs/JamesSaft		
+John Abell	http://feeds.reuters.com/reuters/blogs/JohnCAbell		
+John Wasik	http://feeds.reuters.com/reuters/blogs/JohnWasik		
+Lucy Marcus	http://feeds.reuters.com/LucyMarcus		
+Lawrence Summers	http://feeds.reuters.com/reuters/blogs/LawrenceSummers		
+Macroscope	http://feeds.reuters.com/reuters/blogs/macroscope		
+MediaFile	http://feeds.reuters.com/reuters/blogs/mediafile		
+Mohamed El-Erian	http://feeds.reuters.com/reuters/blogs/mohamedelerian		
+Newsmaker	http://feeds.reuters.com/reuters/blogs/newsmaker		
+Reuters Breakingviews	http://feeds.reuters.com/reuters/blogs/ReutersBreakingviews		
+Reuters Editors	http://feeds.reuters.com/reuters/blogs/reuters-editors		
+Reuters Photographers	http://feeds.reuters.com/reuters/blogs/photo		
+Summit Notebook	http://feeds.reuters.com/reuters/blogs/SummitNotebook		
+Tales from the Trail	http://feeds.reuters.com/reuters/blogs/talesfromthetrail		
+The Deep End	http://feeds.reuters.com/reuters/blogs/the-deep-end		
+The Great Debate	http://feeds.reuters.com/reuters/blogs/the-great-debate		
+The Human Impact	http://feeds.reuters.com/reuters/blogs/the-human-impact		
+Tax Break	http://feeds.reuters.com/reuters/blogs/taxbreak		
+Unstructured Finance	http://feeds.reuters.com/UnstructuredFinance		
+Video
+
+TITLE	COPY URL TO RSS READER	 	 
+Breakingviews Video	http://feeds.reuters.com/reuters/USVideoBreakingviews		
+Business Video	http://feeds.reuters.com/reuters/USVideoBusiness		
+Business Travel Video	http://feeds.reuters.com/reuters/USVideoBusinessTravel		
+Chrystia Freeland Video	http://feeds.reuters.com/reuters/USVideoChrystiaFreeland		
+Entertainment Video	http://feeds.reuters.com/reuters/USVideoEntertainment		
+Environment Video	http://feeds.reuters.com/reuters/USVideoEnvironment		
+Felix Salmon Video	http://feeds.reuters.com/reuters/USVideoFelixSalmon		
+GigaOm Video	http://feeds.reuters.com/reuters/USVideoGigaom		
+Lifestyle Video	http://feeds.reuters.com/reuters/USVideoLifestyle		
+Most Watched Video	http://feeds.reuters.com/reuters/USVideoMostWatched		
+Most Recent Video	http://feeds.reuters.com/reuters/USVideoLatest		
+Newsmakers	http://feeds.reuters.com/reuters/USVideoNewsmakers		
+Oddly Enough Video	http://feeds.reuters.com/reuters/USVideoOddlyEnough		
+Personal Finance	http://feeds.reuters.com/reuters/USVideoPersonalFinance		
+Politics Video	http://feeds.reuters.com/reuters/USVideoPolitics		
+Rough Cuts	http://feeds.reuters.com/reuters/USVideoRoughCuts		
+Small Business	http://feeds.reuters.com/reuters/USVideoSmallBusiness		
+Technology Video	http://feeds.reuters.com/reuters/USVideoTechnology		
+Top News Video	http://feeds.reuters.com/reuters/USVideoTopNews		
+World News	http://feeds.reuters.com/reuters/USVideoWorldNews		
