@@ -45,10 +45,3 @@ for article in all_articles:
 
 
 
-
-
-
-# def dateParser(dateString):
-# 	dayOfWeek = dateString[:',']
-# 	day = dateString[',':]
-
