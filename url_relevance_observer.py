@@ -10,9 +10,6 @@ LIKE_WEIGHT = 0.10
 FACEBOOK_SHARE_API = "http://api.facebook.com/restserver.php?method=links.getStats&urls="
 PICKELED_RECENT_ARTICLES = 'data/collected_articles.dat'
 
-#urls = ['http://www.cnn.com/2014/04/18/opinion/bell-planet-discovery/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29']
-
-
 
 def calculateScore(url_list):
 	final_score = 0;
@@ -51,7 +48,10 @@ for article in recent_articles_list:
 relevance_sorted_articles = sorted(article_score_dict.items(), key= lambda x:x[1])
 
 for article, score in relevance_sorted_articles:
+	print article.link
+	print article.description
 	print article.title ,":",score
+	print '\n\n\n'
 
 
 

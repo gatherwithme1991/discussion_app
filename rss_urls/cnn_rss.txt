@@ -20,8 +20,6 @@ Travel		http://rss.cnn.com/rss/cnn_travel.rss				Add to My Yahoo!
 
 Living		http://rss.cnn.com/rss/cnn_living.rss				Add to My Yahoo!
 
-Video		http://rss.cnn.com/rss/cnn_freevideo.rss				Add to My Yahoo!
-
 CNN Student News		http://rss.cnn.com/rss/cnn_studentnews.rss				Add to My Yahoo!
 
 Most Popular		http://rss.cnn.com/rss/cnn_mostpopular.rss				Add to My Yahoo!
