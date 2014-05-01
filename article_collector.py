@@ -35,6 +35,7 @@ def collect_articles():
 		for story in parsed_feed['entries']:
 			try:
 				new_article = Article(article_id, story.title, story.link, parseDate(story.published), parseDescription(story.description) )
+				article_id += 1
 				all_articles.append(new_article)
 			except ValueError:
 				print 'Couldnt parse date'
@@ -47,6 +48,7 @@ def collect_articles():
 	recent_articles_list = []
 	article_counter = 0
 	for article in recent_articles:
+		print article.id_num
 		print article.title
 		print article.pubDate
 		print article.description + '\n'
