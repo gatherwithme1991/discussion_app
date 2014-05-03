@@ -21,7 +21,6 @@ class Vectorizer:
 
     def vectorize(self, art_list):
         self.loadStopWords()
-        print 'in'
         lem = nls.WordNetLemmatizer()
         allcombos = {}
         filecombos = {}
@@ -34,7 +33,7 @@ class Vectorizer:
         senw={}
         for art in art_list:
             description = art.description
-            print description
+            #print description
             for word in nlt.wordpunct_tokenize(description):
                 if not re.search(pattern,word[0]):
                     continue

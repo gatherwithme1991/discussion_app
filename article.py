@@ -7,4 +7,5 @@ class Article:
 		self.link = link
 		self.pubDate = pubDate
 		self.description = description
+		self.vector = []
 		self.score = 0
